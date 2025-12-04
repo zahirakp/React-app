@@ -1,0 +1,32 @@
+
+
+.parent{
+    height: 500px;
+    width: 50%;
+    background-color: darkgray;
+    display: flex;
+    align-items: center;
+    justify-content:  center;
+  
+}.child-1{
+    background-color: rgb(201, 138, 61);
+   height: 400px;
+   width: 400px;
+   padding: 10px;
+
+}.chidl-2{
+     background-color: rgb(201, 150, 150);
+   height: 300px;
+   width: 250px;
+      padding: 10px;
+}
+.child-3{
+    background-color: rgb(150, 189, 201);
+   height: 100px;
+   width: 100px;
+      padding: 10px;
+}
+.navbar{
+    background-color: rgba(0, 128, 0, 0.5);
+    padding: 20px;
+}

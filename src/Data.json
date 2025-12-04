@@ -1,0 +1,25 @@
+{
+    "users":[
+        {
+            "name":"zahira",
+            "age":19,
+            "city":"ksd"
+        },
+        {
+            "name":"sappu",
+            "age":20,
+            "city":"khd"
+        },
+        {
+            "name":"shana",
+            "age":19,
+            "city":"khd"
+        },
+        {
+            "name":"hiba",
+            "age":21,
+            "city":"ksd"
+        }
+
+    ]
+}
